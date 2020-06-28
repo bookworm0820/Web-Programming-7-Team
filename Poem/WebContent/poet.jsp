@@ -6,7 +6,7 @@
 <html>
 <head>
 <title>Poet List</title>
-<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="index.css">
 </head>
 <body>
 <jsp:include page="header.jsp" />

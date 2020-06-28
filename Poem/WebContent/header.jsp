@@ -1,6 +1,6 @@
 <%@ page contentType="text/html; charset=utf-8"%>
 <header>
-	<h1><a href="main.jsp">디지털 도서관 : 시</a></h1>
+	<h1><a href="index.jsp">디지털 도서관 : 시</a></h1>
 </header>
 <p class="lt">
 <%

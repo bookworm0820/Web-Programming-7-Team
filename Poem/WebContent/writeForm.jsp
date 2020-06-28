@@ -3,7 +3,7 @@
 <html>
 <head>
 <title>Board</title>
-<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="index.css">
 </head>
 <script>
 	function checkForm() {

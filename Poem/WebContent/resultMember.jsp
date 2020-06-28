@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>회원 정보</title>
-<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="index.css">
 </head>
 <body>
 <div class="lm">
@@ -33,7 +33,7 @@
 		
 
 %>
-<input type="button"  value="돌아가기 " onclick="location.href='main.jsp'" class="hrb">
+<input type="button"  value="돌아가기 " onclick="location.href='index.jsp'" class="hrb">
 <%} %>
 </div>
 <jsp:include page="footer.jsp" />

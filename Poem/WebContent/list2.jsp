@@ -8,7 +8,7 @@
 <html>
 <head>
 <title>Board</title>
-<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="index.css">
 <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
 </head>
 <body>

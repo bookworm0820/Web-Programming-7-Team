@@ -15,7 +15,7 @@
 	}
 </script>
 <title>회원 가입</title>
-<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="index.css">
 </head>
 <body>
 	<div class="login-box">
@@ -30,7 +30,7 @@
 		<p style="text-align:right;">생년월일 : <input name="birth" type="text" maxlength="6" placeholder="YYMMDD" class="amtxtb"></p>
 		<p style="text-align:right;">전화번호 : <input name="phone" type="text" maxlength="11" placeholder="01012345678" class="amtxtb"></p>
 		<input type="submit" value="등록 " class="login-btn"><br>
-		<input type="button"  value="돌아가기 " onclick="location.href='main.jsp'" class="lrb">
+		<input type="button"  value="돌아가기 " onclick="location.href='index.jsp'" class="lrb">
 	</form>
 	</div>
 	

@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Login</title>
-<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="index.css">
 </head>
 <body>
 
@@ -18,7 +18,7 @@
 		<input type="text" name="id" placeholder="아이디" required autofocus class="txtb">
 		<input type="password" name="password" placeholder="비밀번호" required class="txtb">
 		<button type="submit" class="login-btn">로그인</button><br>
-		<input type="button" value="돌아가기 " onclick="location.href='main.jsp'" class="lrb">
+		<input type="button" value="돌아가기 " onclick="location.href='index.jsp'" class="lrb">
 	</form>
 	</div>
 
